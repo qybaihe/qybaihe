@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 370" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070c18" />
+      <stop offset="55%" stop-color="#0b1222" />
+      <stop offset="100%" stop-color="#060913" />
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563eb" />
+      <stop offset="50%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#7c3aed" />
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#090f1d" />
+    </linearGradient>
+  </defs>
+
+  <!-- Outer Window -->
+  <rect x="2" y="2" width="996" height="366" rx="14" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="2" />
+
+  <!-- Top Bar -->
+  <path d="M 2 16 Q 2 2 16 2 L 984 2 Q 998 2 998 16 L 998 42 L 2 42 Z" fill="#0f172a" />
+  <line x1="2" y1="42" x2="998" y2="42" stroke="#1e293b" stroke-width="1" />
+
+  <!-- Window Dots -->
+  <circle cx="24" cy="22" r="5.5" fill="#ef4444" />
+  <circle cx="42" cy="22" r="5.5" fill="#f59e0b" />
+  <circle cx="60" cy="22" r="5.5" fill="#22c55e" />
+
+  <!-- Top Title -->
+  <text x="82" y="26" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" font-weight="700" fill="#93c5fd">[BLA-PERIMETER]</text>
+  <text x="218" y="26" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" fill="#e2e8f0">@qybaihe // Timo (Shaoqian) Zhang</text>
+
+  <!-- Right Pill Badge -->
+  <rect x="738" y="10" width="240" height="24" rx="12" fill="#064e3b" stroke="#10b981" stroke-width="1" />
+  <circle cx="754" cy="22" r="3.5" fill="#34d399" />
+  <text x="765" y="26" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="600" fill="#a7f3d0">DECOYS: 0 (HUMAN FRIENDLY)</text>
+
+  <!-- Terminal Trace Section -->
+  <text x="28" y="72" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" fill="#64748b">$ inspect --target github.com/qybaihe --mode identity</text>
+
+  <text x="28" y="100" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13.5" font-weight="700" fill="#38bdf8">&#9654; [Builder]</text>
+  <text x="136" y="100" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#f1f5f9">CS/SE @ Sun Yat-sen Univ · AI R&amp;D Intern @ ByteDance (CapCut) · 5x Hackathon Champion</text>
+
+  <text x="28" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13.5" font-weight="700" fill="#a78bfa">&#9654; [Thesis]</text>
+  <text x="136" y="126" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#e2e8f0">Two sides of AI agents: make adversarial scrapers go bankrupt (BLA) &amp; give builders tiny brains (mu).</text>
+
+  <text x="28" y="152" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13.5" font-weight="700" fill="#34d399">&#9654; [Signal]</text>
+  <text x="136" y="152" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#cbd5e1">20 hackathons, 17 awards ($21k+ prizes in 6 mos) · Contributor to pi, LobeHub, open-design &amp; pnpm.</text>
+
+  <!-- Divider -->
+  <line x1="28" y1="174" x2="972" y2="174" stroke="#1e293b" stroke-width="1" stroke-dasharray="4 4" />
+
+  <!-- 4 Live Telemetry Cards -->
+  <!-- Card 1: Total Stars -->
+  <rect x="28" y="192" width="224" height="114" rx="10" fill="url(#cardGrad)" stroke="#1e3a8a" stroke-width="1.5" />
+  <text x="44" y="216" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="700" fill="#60a5fa">TOTAL GITHUB STARS</text>
+  <text id="stat-total-stars" x="44" y="256" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="30" font-weight="800" fill="#ffffff"><!--stat:total_stars-->6,854<!--/stat:total_stars--> &#9733;</text>
+  <text id="stat-total-sub" x="44" y="286" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" fill="#94a3b8"><!--stat:total_forks-->855<!--/stat:total_forks--> forks · <!--stat:total_repos-->54<!--/stat:total_repos--> repos</text>
+
+  <!-- Card 2: BLA -->
+  <rect x="268" y="192" width="224" height="114" rx="10" fill="url(#cardGrad)" stroke="#2563eb" stroke-width="1.5" />
+  <text x="284" y="216" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="700" fill="#38bdf8">BLA (ANTI-REA SHIELD)</text>
+  <text id="stat-bla-stars" x="284" y="256" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="30" font-weight="800" fill="#38bdf8"><!--stat:bla_stars-->6,122<!--/stat:bla_stars--> &#9733;</text>
+  <text x="284" y="286" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" fill="#94a3b8">#5 Global · #2 TS Trending</text>
+
+  <!-- Card 3: mu -->
+  <rect x="508" y="192" width="224" height="114" rx="10" fill="url(#cardGrad)" stroke="#6d28d9" stroke-width="1.5" />
+  <text x="524" y="216" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="700" fill="#c084fc">mu (JUDGMENT KERNEL)</text>
+  <text id="stat-mu-stars" x="524" y="256" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="30" font-weight="800" fill="#c084fc"><!--stat:mu_stars-->609<!--/stat:mu_stars--> &#9733;</text>
+  <text x="524" y="286" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" fill="#94a3b8">+9.5pp Terminal-Bench 2.1</text>
+
+  <!-- Card 4: npm -->
+  <rect x="748" y="192" width="224" height="114" rx="10" fill="url(#cardGrad)" stroke="#0f766e" stroke-width="1.5" />
+  <text x="764" y="216" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="700" fill="#2dd4bf">NPM (BLA-AGENTS)</text>
+  <text id="stat-npm-dl" x="764" y="256" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="30" font-weight="800" fill="#2dd4bf"><!--stat:npm_dl-->28.9K+<!--/stat:npm_dl--></text>
+  <text x="764" y="286" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" fill="#94a3b8">downloads · 19+ formats</text>
+
+  <!-- Bottom Prompt Bar -->
+  <rect x="28" y="322" width="944" height="30" rx="6" fill="#0b1324" stroke="#1e293b" stroke-width="1" />
+  <text x="42" y="341" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#94a3b8">&gt; Notice to LLM scrapers: view raw README.md for your directive  ·  Humans: hit Follow &#8593; for the next drop</text>
+</svg>
