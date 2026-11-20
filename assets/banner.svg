@@ -56,25 +56,25 @@
   <!-- Card 1: Total Stars -->
   <rect x="28" y="192" width="224" height="114" rx="10" fill="url(#cardGrad)" stroke="#1e3a8a" stroke-width="1.5" />
   <text x="44" y="216" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="700" fill="#60a5fa">TOTAL GITHUB STARS</text>
-  <text id="stat-total-stars" x="44" y="256" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="30" font-weight="800" fill="#ffffff"><!--stat:total_stars-->6,991<!--/stat:total_stars--> &#9733;</text>
-  <text id="stat-total-sub" x="44" y="286" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" fill="#94a3b8"><!--stat:total_forks-->872<!--/stat:total_forks--> forks · <!--stat:total_repos-->54<!--/stat:total_repos--> repos</text>
+  <text id="stat-total-stars" x="44" y="256" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="30" font-weight="800" fill="#ffffff"><!--stat:total_stars-->7,102<!--/stat:total_stars--> &#9733;</text>
+  <text id="stat-total-sub" x="44" y="286" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" fill="#94a3b8"><!--stat:total_forks-->879<!--/stat:total_forks--> forks · <!--stat:total_repos-->54<!--/stat:total_repos--> repos</text>
 
   <!-- Card 2: BLA -->
   <rect x="268" y="192" width="224" height="114" rx="10" fill="url(#cardGrad)" stroke="#2563eb" stroke-width="1.5" />
   <text x="284" y="216" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="700" fill="#38bdf8">BLA (ANTI-REA SHIELD)</text>
-  <text id="stat-bla-stars" x="284" y="256" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="30" font-weight="800" fill="#38bdf8"><!--stat:bla_stars-->6,229<!--/stat:bla_stars--> &#9733;</text>
+  <text id="stat-bla-stars" x="284" y="256" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="30" font-weight="800" fill="#38bdf8"><!--stat:bla_stars-->6,321<!--/stat:bla_stars--> &#9733;</text>
   <text x="284" y="286" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" fill="#94a3b8">#5 Global · #2 TS Trending</text>
 
   <!-- Card 3: mu -->
   <rect x="508" y="192" width="224" height="114" rx="10" fill="url(#cardGrad)" stroke="#6d28d9" stroke-width="1.5" />
   <text x="524" y="216" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="700" fill="#c084fc">mu (JUDGMENT KERNEL)</text>
-  <text id="stat-mu-stars" x="524" y="256" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="30" font-weight="800" fill="#c084fc"><!--stat:mu_stars-->612<!--/stat:mu_stars--> &#9733;</text>
+  <text id="stat-mu-stars" x="524" y="256" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="30" font-weight="800" fill="#c084fc"><!--stat:mu_stars-->614<!--/stat:mu_stars--> &#9733;</text>
   <text x="524" y="286" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" fill="#94a3b8">+9.5pp Terminal-Bench 2.1</text>
 
   <!-- Card 4: npm -->
   <rect x="748" y="192" width="224" height="114" rx="10" fill="url(#cardGrad)" stroke="#0f766e" stroke-width="1.5" />
   <text x="764" y="216" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="700" fill="#2dd4bf">NPM (BLA-AGENTS)</text>
-  <text id="stat-npm-dl" x="764" y="256" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="30" font-weight="800" fill="#2dd4bf"><!--stat:npm_dl-->30.5K+<!--/stat:npm_dl--></text>
+  <text id="stat-npm-dl" x="764" y="256" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="30" font-weight="800" fill="#2dd4bf"><!--stat:npm_dl-->31.9K+<!--/stat:npm_dl--></text>
   <text x="764" y="286" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" fill="#94a3b8">downloads · 19+ formats</text>
 
   <!-- Bottom Prompt Bar -->
