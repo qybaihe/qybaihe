@@ -37,7 +37,7 @@ Most people pick one side of AI coding agents. I accidentally ended up building 
 <td width="50%" valign="top">
 
 #### 🛡️ Make Bad Agents Go Bankrupt
-**[BLA — Blind LLM Agents](https://github.com/qybaihe/bla)** (`6,321 ★` · `#5 Global Daily` · `bla.tools`)
+**[BLA — Blind LLM Agents](https://github.com/qybaihe/bla)** (`6,333 ★` · `#5 Global Daily` · `bla.tools`)
 
 When tools like `REA` turned reversing Electron `.asar`, WASM, or native apps into a `$0.20` prompt, classic `_0x1a2b` obfuscation died overnight.
 - **Poison → Exhaust → Hallucinate**: Trips 60+ deterministic parser ceilings across 19+ formats while keeping runtime behavior 100% equivalent.
@@ -47,7 +47,7 @@ When tools like `REA` turned reversing Electron `.asar`, WASM, or native apps in
 <td width="50%" valign="top">
 
 #### 🧠 Give Good Agents Smaller Brains
-**[mu (μ) — Judgment Kernel Harness](https://github.com/qybaihe/mu)** (`614 ★` · `Champion` · `usemu.dev`)
+**[mu (μ) — Judgment Kernel Harness](https://github.com/qybaihe/mu)** (`615 ★` · `Champion` · `usemu.dev`)
 
 Most of what a coding agent decides every turn isn't code — it's *when to stop, filter test logs, approve risky commands, or keep context clean*.
 - **Decision Decoupling**: Hands 40 non-code yes/no decisions per turn to a `~0.3s` small judge (`Jev` or local `322M Laya` / fine-tuned **4B Nemotron**).
@@ -64,7 +64,7 @@ Most of what a coding agent decides every turn isn't code — it's *when to stop
 | Project | Stars | What It Does |
 | :--- | :---: | :--- |
 | **[mu-judge-nemotron](https://github.com/qybaihe/mu-judge-nemotron)** | Model | Fine-tuned **NVIDIA Nemotron 3 Nano 4B** judgment kernel (`91.5%` accuracy on `mubench 1.0`, outscoring Nemotron 3 Ultra `68.2` vs `54.7`). |
-| **[codex-ppt](https://github.com/qybaihe/codex-ppt)** | `56 ★` | Producer-style AI slide deck skill — turns briefs into 16:9 poster-grade PDFs or multi-layer editable PPTX decks. |
+| **[codex-ppt](https://github.com/qybaihe/codex-ppt)** | `57 ★` | Producer-style AI slide deck skill — turns briefs into 16:9 poster-grade PDFs or multi-layer editable PPTX decks. |
 | **[SYSU-Anything](https://github.com/qybaihe/SYSU-Anything)** | `15 ★` | Turns Sun Yat-sen University's fragmented campus portals into a single agent-operable personal OS & Apple ecosystem integration. |
 | **[inkview](https://github.com/qybaihe/inkview)** & **[hash-design](https://github.com/qybaihe/hash-design)** | `10 ★` | Anti-AI-slop web aesthetic skills — Chinese ink-wash redesigns and *"let a true-random hash pick the design direction, not the model."* |
 | **[SkillTrust](https://github.com/qybaihe/SkillTrust)** | `3 ★` | Intent-bound least-privilege permission governance layer for AI agent skills. |
