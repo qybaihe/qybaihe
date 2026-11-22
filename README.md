@@ -37,7 +37,7 @@ Most people pick one side of AI coding agents. I accidentally ended up building 
 <td width="50%" valign="top">
 
 #### 🛡️ Make Bad Agents Go Bankrupt
-**[BLA — Blind LLM Agents](https://github.com/qybaihe/bla)** (`6,388 ★` · `#5 Global Daily` · `bla.tools`)
+**[BLA — Blind LLM Agents](https://github.com/qybaihe/bla)** (`6,417 ★` · `#5 Global Daily` · `bla.tools`)
 
 When tools like `REA` turned reversing Electron `.asar`, WASM, or native apps into a `$0.20` prompt, classic `_0x1a2b` obfuscation died overnight.
 - **Poison → Exhaust → Hallucinate**: Trips 60+ deterministic parser ceilings across 19+ formats while keeping runtime behavior 100% equivalent.
@@ -47,7 +47,7 @@ When tools like `REA` turned reversing Electron `.asar`, WASM, or native apps in
 <td width="50%" valign="top">
 
 #### 🧠 Give Good Agents Smaller Brains
-**[mu (μ) — Judgment Kernel Harness](https://github.com/qybaihe/mu)** (`615 ★` · `Champion` · `usemu.dev`)
+**[mu (μ) — Judgment Kernel Harness](https://github.com/qybaihe/mu)** (`616 ★` · `Champion` · `usemu.dev`)
 
 Most of what a coding agent decides every turn isn't code — it's *when to stop, filter test logs, approve risky commands, or keep context clean*.
 - **Decision Decoupling**: Hands 40 non-code yes/no decisions per turn to a `~0.3s` small judge (`Jev` or local `322M Laya` / fine-tuned **4B Nemotron**).
