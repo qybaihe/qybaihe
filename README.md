@@ -37,7 +37,7 @@ Most people pick one side of AI coding agents. I accidentally ended up building 
 <td width="50%" valign="top">
 
 #### 🛡️ Make Bad Agents Go Bankrupt
-**[BLA — Blind LLM Agents](https://github.com/qybaihe/bla)** (`6,437 ★` · `#5 Global Daily` · `bla.tools`)
+**[BLA — Blind LLM Agents](https://github.com/qybaihe/bla)** (`6,554 ★` · `#5 Global Daily` · `bla.tools`)
 
 When tools like `REA` turned reversing Electron `.asar`, WASM, or native apps into a `$0.20` prompt, classic `_0x1a2b` obfuscation died overnight.
 - **Poison → Exhaust → Hallucinate**: Trips 60+ deterministic parser ceilings across 19+ formats while keeping runtime behavior 100% equivalent.
