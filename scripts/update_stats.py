@@ -54,6 +54,7 @@ def main():
     by_name = {r["name"]: r for r in repos}
     bla_stars = by_name.get("bla", {}).get("stargazers_count", 0)
     mu_stars = by_name.get("mu", {}).get("stargazers_count", 0)
+    botark_stars = by_name.get("botark", {}).get("stargazers_count", 0)
     codex_ppt_stars = by_name.get("codex-ppt", {}).get("stargazers_count", 0)
     sysu_stars = by_name.get("SYSU-Anything", {}).get("stargazers_count", 0)
 
@@ -91,6 +92,12 @@ def main():
             rf"\g<1>{mu_stars:,}\g<2>",
             readme,
         )
+    if botark_stars:
+        readme = re.sub(
+            r"(\*\*\[BotArk — Native Multi-Agent Workspace\]\(https://github\.com/qybaihe/botark\)\*\* \(`)[^`]+( ★`)",
+            rf"\g<1>{botark_stars:,}\g<2>",
+            readme,
+        )
     if codex_ppt_stars:
         readme = re.sub(
             r"(\*\*\[codex-ppt\]\(https://github\.com/qybaihe/codex-ppt\)\*\* \| `)[^`]+( ★`)",
@@ -107,7 +114,7 @@ def main():
 
     print(
         f"Updated stats: total={total_stars} ({total_forks} forks, {total_repos} repos), "
-        f"bla={bla_stars}, mu={mu_stars}, npm={npm_label}"
+        f"bla={bla_stars}, mu={mu_stars}, botark={botark_stars}, npm={npm_label}"
     )
 
 
