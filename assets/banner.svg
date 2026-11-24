@@ -56,19 +56,19 @@
   <!-- Card 1: Total Stars -->
   <rect x="28" y="192" width="224" height="114" rx="10" fill="url(#cardGrad)" stroke="#1e3a8a" stroke-width="1.5" />
   <text x="44" y="216" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="700" fill="#60a5fa">TOTAL GITHUB STARS</text>
-  <text id="stat-total-stars" x="44" y="256" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="30" font-weight="800" fill="#ffffff"><!--stat:total_stars-->7,381<!--/stat:total_stars--> &#9733;</text>
-  <text id="stat-total-sub" x="44" y="286" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" fill="#94a3b8"><!--stat:total_forks-->915<!--/stat:total_forks--> forks · <!--stat:total_repos-->55<!--/stat:total_repos--> repos</text>
+  <text id="stat-total-stars" x="44" y="256" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="30" font-weight="800" fill="#ffffff"><!--stat:total_stars-->7,480<!--/stat:total_stars--> &#9733;</text>
+  <text id="stat-total-sub" x="44" y="286" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" fill="#94a3b8"><!--stat:total_forks-->923<!--/stat:total_forks--> forks · <!--stat:total_repos-->55<!--/stat:total_repos--> repos</text>
 
   <!-- Card 2: BLA -->
   <rect x="268" y="192" width="224" height="114" rx="10" fill="url(#cardGrad)" stroke="#2563eb" stroke-width="1.5" />
   <text x="284" y="216" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="700" fill="#38bdf8">BLA (ANTI-REA SHIELD)</text>
-  <text id="stat-bla-stars" x="284" y="256" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="30" font-weight="800" fill="#38bdf8"><!--stat:bla_stars-->6,554<!--/stat:bla_stars--> &#9733;</text>
+  <text id="stat-bla-stars" x="284" y="256" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="30" font-weight="800" fill="#38bdf8"><!--stat:bla_stars-->6,635<!--/stat:bla_stars--> &#9733;</text>
   <text x="284" y="286" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" fill="#94a3b8">#5 Global · #2 TS Trending</text>
 
   <!-- Card 3: mu -->
   <rect x="508" y="192" width="224" height="114" rx="10" fill="url(#cardGrad)" stroke="#6d28d9" stroke-width="1.5" />
   <text x="524" y="216" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="700" fill="#c084fc">mu (JUDGMENT KERNEL)</text>
-  <text id="stat-mu-stars" x="524" y="256" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="30" font-weight="800" fill="#c084fc"><!--stat:mu_stars-->616<!--/stat:mu_stars--> &#9733;</text>
+  <text id="stat-mu-stars" x="524" y="256" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="30" font-weight="800" fill="#c084fc"><!--stat:mu_stars-->618<!--/stat:mu_stars--> &#9733;</text>
   <text x="524" y="286" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" fill="#94a3b8">+9.5pp Terminal-Bench 2.1</text>
 
   <!-- Card 4: npm -->
