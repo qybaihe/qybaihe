@@ -39,7 +39,7 @@ Most people pick one side of AI coding agents. I accidentally ended up building 
 <td width="50%" valign="top">
 
 #### 🛡️ Make Bad Agents Go Bankrupt
-**[BLA — Blind LLM Agents](https://github.com/qybaihe/bla)** (`6,908 ★` · `#5 Global Daily` · `bla.tools`)
+**[BLA — Blind LLM Agents](https://github.com/qybaihe/bla)** (`6,983 ★` · `#5 Global Daily` · `bla.tools`)
 
 When tools like `REA` turned reversing Electron `.asar`, WASM, or native apps into a `$0.20` prompt, classic `_0x1a2b` obfuscation died overnight.
 - **Poison → Exhaust → Hallucinate**: Trips 60+ deterministic parser ceilings across 19+ formats while keeping runtime behavior 100% equivalent.
@@ -49,7 +49,7 @@ When tools like `REA` turned reversing Electron `.asar`, WASM, or native apps in
 <td width="50%" valign="top">
 
 #### 🧠 Give Good Agents Smaller Brains
-**[mu (μ) — Judgment Kernel Harness](https://github.com/qybaihe/mu)** (`619 ★` · `Champion` · `usemu.dev`)
+**[mu (μ) — Judgment Kernel Harness](https://github.com/qybaihe/mu)** (`620 ★` · `Champion` · `usemu.dev`)
 
 Most of what a coding agent decides every turn isn't code — it's *when to stop, filter test logs, approve risky commands, or keep context clean*.
 - **Decision Decoupling**: Hands 40 non-code yes/no decisions per turn to a `~0.3s` small judge (`Jev` or local `322M Laya` / fine-tuned **4B Nemotron**).
@@ -64,7 +64,7 @@ Most of what a coding agent decides every turn isn't code — it's *when to stop
 <td width="100%" valign="top">
 
 #### 🤖 Put Every Personal AI Agent in One Room
-**[BotArk — Native Multi-Agent Workspace](https://github.com/qybaihe/botark)** (`157 ★` · `macOS / Windows / iOS / Android` · [`qybaihe.github.io/botark`](https://qybaihe.github.io/botark/))
+**[BotArk — Native Multi-Agent Workspace](https://github.com/qybaihe/botark)** (`181 ★` · `macOS / Windows / iOS / Android` · [`qybaihe.github.io/botark`](https://qybaihe.github.io/botark/))
 
 Stop juggling six separate apps and a dozen incognito profiles for **Grok Bot**, **Google Antigravity**, **ChatGPT Dot**, **Meta Muse**, **Hark**, **Cue**, and open-source **Hermes**.
 - **Multi-Agent Collaboration Rooms & Local MCP**: Bring agents from different platforms into one room for autonomous `@mention` handoffs, `[FINAL]` consensus deliverables, and approval-gated local MCP tool calls.
