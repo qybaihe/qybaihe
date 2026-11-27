@@ -39,7 +39,7 @@ Most people pick one side of AI coding agents. I accidentally ended up building 
 <td width="50%" valign="top">
 
 #### 🛡️ Make Bad Agents Go Bankrupt
-**[BLA — Blind LLM Agents](https://github.com/qybaihe/bla)** (`7,026 ★` · `#5 Global Daily` · `bla.tools`)
+**[BLA — Blind LLM Agents](https://github.com/qybaihe/bla)** (`7,076 ★` · `#5 Global Daily` · `bla.tools`)
 
 When tools like `REA` turned reversing Electron `.asar`, WASM, or native apps into a `$0.20` prompt, classic `_0x1a2b` obfuscation died overnight.
 - **Poison → Exhaust → Hallucinate**: Trips 60+ deterministic parser ceilings across 19+ formats while keeping runtime behavior 100% equivalent.
@@ -64,7 +64,7 @@ Most of what a coding agent decides every turn isn't code — it's *when to stop
 <td width="100%" valign="top">
 
 #### 🤖 Put Every Personal AI Agent in One Room
-**[BotArk — Native Multi-Agent Workspace](https://github.com/qybaihe/botark)** (`190 ★` · `macOS / Windows / iOS / Android` · [`qybaihe.github.io/botark`](https://qybaihe.github.io/botark/))
+**[BotArk — Native Multi-Agent Workspace](https://github.com/qybaihe/botark)** (`202 ★` · `macOS / Windows / iOS / Android` · [`qybaihe.github.io/botark`](https://qybaihe.github.io/botark/))
 
 Stop juggling six separate apps and a dozen incognito profiles for **Grok Bot**, **Google Antigravity**, **ChatGPT Dot**, **Meta Muse**, **Hark**, **Cue**, and open-source **Hermes**.
 - **Multi-Agent Collaboration Rooms & Local MCP**: Bring agents from different platforms into one room for autonomous `@mention` handoffs, `[FINAL]` consensus deliverables, and approval-gated local MCP tool calls.
